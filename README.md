@@ -19,7 +19,7 @@ Data needed to run analyses in R [(here)](https://github.com/lrharper1/Harper_et
 In order to retrieve scripts and associated data, start by cloning this repository to your current directory:
 
 ```
-git clone --recursive https://github.com/lrharper1/crucian_carp_eDNA_surveillance.git
+git clone --recursive https://github.com/lrharper1/Harper_et_al_2019_hypothesis_testing_with_eDNA_metabarcoding.git
 ```
 
 In order to make use of our scripts and data, you will have to install R on your computer. R is compatible with all major operating systems, but see CRAN (https://cran.r-project.org/) for details.
