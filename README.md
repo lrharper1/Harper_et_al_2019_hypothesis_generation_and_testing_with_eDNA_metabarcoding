@@ -4,6 +4,8 @@ Data processing workflow and supplementary data for:
 
 Harper *et al.* (2019) Testing ecological hypotheses at the pondscape with environmental DNA metabarcoding: a case study on a threatened amphibian
 
+Permanently archived at: [![DOI](https://zenodo.org/badge/180420643.svg)](https://zenodo.org/badge/latestdoi/180420643)
+
 
 ## Background
 
